@@ -1,0 +1,6 @@
+{
+  "name": "AI Loan Eligibility Checker & BFSI Suite",
+  "description": "AI-powered BFSI financial platform featuring Loan Eligibility Checker, Credit Score Analyzer, EMI Calculator, and AI Financial Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
